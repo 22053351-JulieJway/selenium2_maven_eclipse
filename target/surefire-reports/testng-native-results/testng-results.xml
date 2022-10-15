@@ -2,28 +2,28 @@
 <testng-results total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-15T19:33:00Z" name="Surefire suite" finished-at="2022-10-15T19:35:16Z" duration-ms="135961">
+  <suite started-at="2022-10-15T19:48:50Z" name="Surefire suite" finished-at="2022-10-15T19:51:07Z" duration-ms="137308">
     <groups>
     </groups>
-    <test started-at="2022-10-15T19:33:00Z" name="Surefire test" finished-at="2022-10-15T19:35:16Z" duration-ms="135961">
+    <test started-at="2022-10-15T19:48:50Z" name="Surefire test" finished-at="2022-10-15T19:51:07Z" duration-ms="137308">
       <class name="com.sddevops.selenium2_maven.eclipse.JulieTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@21baa903]" started-at="2022-10-15T12:33:00Z" name="beforeTest" finished-at="2022-10-15T12:33:07Z" duration-ms="6315" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@52045dbe]" started-at="2022-10-15T12:48:50Z" name="beforeTest" finished-at="2022-10-15T12:48:57Z" duration-ms="7082" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="findByClassName()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@21baa903]" started-at="2022-10-15T12:33:07Z" name="findByClassName" finished-at="2022-10-15T12:33:53Z" duration-ms="46173" status="PASS">
+        <test-method signature="findByClassName()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@52045dbe]" started-at="2022-10-15T12:48:57Z" name="findByClassName" finished-at="2022-10-15T12:49:41Z" duration-ms="43669" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findByClassName -->
-        <test-method signature="findById()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@21baa903]" started-at="2022-10-15T12:33:53Z" name="findById" finished-at="2022-10-15T12:34:33Z" duration-ms="40013" status="PASS">
+        <test-method signature="findById()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@52045dbe]" started-at="2022-10-15T12:49:41Z" name="findById" finished-at="2022-10-15T12:50:25Z" duration-ms="44078" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findById -->
-        <test-method signature="findByName()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@21baa903]" started-at="2022-10-15T12:34:33Z" name="findByName" finished-at="2022-10-15T12:35:13Z" duration-ms="40449" status="PASS">
+        <test-method signature="findByName()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@52045dbe]" started-at="2022-10-15T12:50:25Z" name="findByName" finished-at="2022-10-15T12:51:05Z" duration-ms="39970" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findByName -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@21baa903]" started-at="2022-10-15T12:35:13Z" name="afterTest" finished-at="2022-10-15T12:35:16Z" duration-ms="2980" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.sddevops.selenium2_maven.eclipse.JulieTest@52045dbe]" started-at="2022-10-15T12:51:05Z" name="afterTest" finished-at="2022-10-15T12:51:07Z" duration-ms="2468" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
