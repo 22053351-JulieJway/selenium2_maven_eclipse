@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-15T16:03:36Z" name="Surefire suite" finished-at="2022-10-15T16:03:36Z" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2022-10-15T16:03:36Z" name="Surefire test" finished-at="2022-10-15T16:03:36Z" duration-ms="69">
+      <class name="com.sddevops.selenium2_maven.eclipse.AppTest">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:shouldAnswerWithTrue(com.sddevops.selenium2_maven.eclipse.AppTest)]" started-at="2022-10-15T09:03:36Z" name="shouldAnswerWithTrue" finished-at="2022-10-15T09:03:36Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.sddevops.selenium2_maven.eclipse.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

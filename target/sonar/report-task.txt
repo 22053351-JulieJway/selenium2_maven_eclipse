@@ -1,0 +1,6 @@
+projectKey=com.sddevops:selenium2_maven.eclipse
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=com.sddevops%3Aselenium2_maven.eclipse
+ceTaskId=AYPcY-zO001Tkyd6wCbE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPcY-zO001Tkyd6wCbE
