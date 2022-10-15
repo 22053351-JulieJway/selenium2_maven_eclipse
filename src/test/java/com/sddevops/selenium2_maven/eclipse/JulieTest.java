@@ -68,18 +68,7 @@ public class JulieTest {
 
   }
   
-  @Test
-  public void testHomeSearch() {
-	  //Load republic poly website as a new page
-	  webDriver.navigate().to("https://www.rp.edu.sg/");
-	  
-	 webDriver.findElement(By.className("collapsed")).click();
-	 
-	 webDriver.findElement(By.className("homesearch")).sendKeys("devops");
-	 
-	 webDriver.findElement(By.className("homesearch")).sendKeys("Keys.ENTER");
 
-  }
   
 @Test
 
